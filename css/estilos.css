@@ -1,0 +1,49 @@
+		#portafolio{
+			width: 600px;
+			margin: 0;
+			padding: 0;
+			height: 250px;
+		}
+		
+		body{
+			width:90%;margin:auto;min-width:600px;max-width:2000px;
+			background: rgba(169,3,41,1);
+		}
+		h1{
+			
+			color: #f2f2f2;
+			font:bold 30px Verdana;
+		}
+		h3{
+			text-indent:450px;
+			color: #f2f2f2;
+			font:bold 15px Verdana;
+			width:90%;
+  		    height: 80px;
+		}
+		h2{
+			color: #f2f2f2;
+			font:bold 20px Verdana;
+		}
+		a{
+			font:bold 30px Verdana;
+			margin: 0 10px 0 10px;
+			text-decoration:none;
+			color:#f2f2f2;
+			border: 4px solid #f2f2f2;
+			padding: 10px;
+			border-radius: 10px;
+			transition: background .2s,color 2s;
+
+		}
+		a:hover {
+			background: #f2f2f2;
+			color:rgba(169,3,41,1);
+		}
+		footer{ position: absolute;
+  				bottom: 0;
+  				width:90%;
+  				height: 40px;
+  				color: #f2f2f2;
+				font:bold 10px Verdana;
+		}
